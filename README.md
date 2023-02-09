@@ -5,7 +5,6 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 ## Data Prepocessing
 1. Melakukan pengecekan data menggunakan data null 
    Didapat 4 coloumn dengan null yaitu city, agent, company, dan children dilakukan pengisian data null
-   
 
 2. Melakukan pengisian data NULL
    - Children null bisa di anggap menjadi 0
@@ -17,5 +16,7 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 
 4. Menseleksi atau drop kolom data yang tidak di perlukan
 
-![image](https://user-images.githubusercontent.com/118154539/217795636-e933640f-c919-4daf-afda-9967805db58b.png)
+Code Source
+https://drive.google.com/file/d/1Dpww2MqYyVKUo9KGcACKOHB7GtQCt1DJ/view?usp=share_link
+
 
