@@ -17,8 +17,24 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 ![fill null](https://user-images.githubusercontent.com/118154539/217796979-8708923d-75eb-45a6-aecf-9b55463917e7.png)
 
 3. Merubah data yang keliru pada Kolom Meal (mengganti ‘Undefined menjadi No Meal’)
+   - pengecekan Meal value
+ 
+![meal value](https://user-images.githubusercontent.com/118154539/217797571-b7cd8013-1d33-4c7d-87a4-830634b9d13f.png)
+      
+   - merubah value meal undefinied ke No meal
+   
+![meal change valuw](https://user-images.githubusercontent.com/118154539/217797732-5646692a-5844-4211-b8a1-2cf7848ee1d0.png)
+
 
 4. Menseleksi atau drop kolom data yang tidak di perlukan
+  - Membuat kolom data baru dengan menggabungkan data adult, children, babies menjadi visitor
+  - Membuat kolom data baru dengan menggabungkan data_stay_in_weekend_night dan stay_in_weekdays_night menjadi stay duratin
+![Visitor stay duration](https://user-images.githubusercontent.com/118154539/217798945-a15de9d7-db1b-4d31-a6e2-d603d77fbccc.png)
+
+  - Menseleksi data
+![selection data](https://user-images.githubusercontent.com/118154539/217799040-42e53673-bbf2-47e0-b214-a04a0a047f72.png)
+ 
+
 
 Code Source
 https://github.com/Ujeeg/Investigate-Hotel-Business-using-Data-Visualization/blob/main/Project%202%20Stage%201.ipynb
