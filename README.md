@@ -5,6 +5,7 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 ## Data Prepocessing
 1. Melakukan pengecekan data menggunakan data null 
    Didapat 4 coloumn dengan null yaitu city, agent, company, dan children dilakukan pengisian data null
+   
 ![Null sum](https://user-images.githubusercontent.com/118154539/217796954-1f7ffc83-9be5-42e4-8e46-5ab46c0fab1b.png)
 
 
