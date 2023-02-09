@@ -17,6 +17,7 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 4. Menseleksi atau drop kolom data yang tidak di perlukan
 
 Code Source
+https://github.com/Ujeeg/Investigate-Hotel-Business-using-Data-Visualization/blob/main/Project%202%20Stage%201.ipynb
 
 
 
