@@ -17,6 +17,6 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 4. Menseleksi atau drop kolom data yang tidak di perlukan
 
 Code Source
-https://drive.google.com/file/d/1Dpww2MqYyVKUo9KGcACKOHB7GtQCt1DJ/view?usp=share_link
+
 
 
