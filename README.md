@@ -5,12 +5,15 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 ## Data Prepocessing
 1. Melakukan pengecekan data menggunakan data null 
    Didapat 4 coloumn dengan null yaitu city, agent, company, dan children dilakukan pengisian data null
+![Null sum](https://user-images.githubusercontent.com/118154539/217796954-1f7ffc83-9be5-42e4-8e46-5ab46c0fab1b.png)
+
 
 2. Melakukan pengisian data NULL
    - Children null bisa di anggap menjadi 0
    - City yang null menggunakan logika Tidak dikenal (Unknown) lalu di isi dengan Unknown
    - Agent yang null di anggap tidak menggunakan agent dengan logika True/False lalu di isi 0
    - Company yang null di anggap tidak menggunakan agent jadi di isi 0
+![fill null](https://user-images.githubusercontent.com/118154539/217796979-8708923d-75eb-45a6-aecf-9b55463917e7.png)
 
 3. Merubah data yang keliru pada Kolom Meal (mengganti ‘Undefined menjadi No Meal’)
 
