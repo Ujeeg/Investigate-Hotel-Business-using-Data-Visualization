@@ -37,8 +37,9 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 
 6. Menseleksi atau drop kolom data yang tidak di perlukan
   - Membuat kolom data baru dengan menggabungkan data adult, children, babies menjadi visitor
-  - Membuat kolom data baru dengan menggabungkan data_stay_in_weekend_night dan stay_in_weekdays_night menjadi stay duratin
-     ![Visitor stay duration](https://user-images.githubusercontent.com/118154539/217798945-a15de9d7-db1b-4d31-a6e2-d603d77fbccc.png)
+  - Membuat kolom data baru dengan menggabungkan data_stay_in_weekend_night dan stay_in_weekdays_night menjadi stay duration
+
+![Visitor stay duration](https://user-images.githubusercontent.com/118154539/217798945-a15de9d7-db1b-4d31-a6e2-d603d77fbccc.png)
 
   - Menseleksi data
      ![selection data](https://user-images.githubusercontent.com/118154539/217799040-42e53673-bbf2-47e0-b214-a04a0a047f72.png)
