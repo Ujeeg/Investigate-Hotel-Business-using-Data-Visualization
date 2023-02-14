@@ -21,6 +21,7 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 
 
 4. Membersihkan Outliers dengan Zscore
+
    ![Cleaning ouliers](https://user-images.githubusercontent.com/118154539/218632686-de990adf-a660-419f-a6af-16bdbc5c1a30.png)
 
 
