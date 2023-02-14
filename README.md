@@ -99,6 +99,7 @@ Pada Data Impact Analysis of Lead Time on Hotel Bookings Cancellation by Hotel T
 ![Stge 3 2](https://user-images.githubusercontent.com/118154539/218634290-d01711ce-2883-4d52-850f-56bd06e33e3f.png)
    1) Canceled dangan lead time paling lama terjadi pada bulan November, hal tersebut bisa terjadi karena banya pengunjung yang merencanakan untuk melakukan booking pada bulan December dimana terdapat libur panjang yaitu libur natal dan tahun baru
    2)canceled dengan lead time paling singkat terjadi pada bulan April
+
 Code Source
 https://github.com/Ujeeg/Investigate-Hotel-Business-using-Data-Visualization/blob/main/Project%202%20Stage%201.ipynb
 
