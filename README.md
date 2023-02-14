@@ -71,7 +71,7 @@ Pada plot Analysis of Stay duration on Booking Cancellation didapat bahwa  :
 Untuk tingkat canceled pada stay duration 1 jauh lebih rendah dibanding dengan stay duration 2 dan 3, hal tersebut bisa saja terjadi karena pengunjung merasa kecewa dengan hotel/ tidak sesuai ekspektasi, dan menyebabkan pengunjung memilih untuk pindah ke hotel lain di stay duration 2 dan 3 
 - Di dapat bahwa semakin lama stay duration semakin sedikit juga tingkat bookingnya
 - Pada stay 1,2 dan 3 merupakan lama stay duration paling di minati pengunjung, mungkin dengan ini hotel bisa membuat promo untuk stay duration 2-3, antau mungkin bisa menggunaka logika untuk meningkatkan stay duration dengan memberikan promo khusus pada pengunjung yang melakukan booking lebih dari 3 stay duration 
-![image](https://user-images.githubusercontent.com/118154539/218633522-06b3a6c1-c181-4201-9c0d-ea4b8344683d.png)
+
 
 3. Analysis of Hotel Type on Hotel Bookings Cancellation
 ![Plot cannceled 3](https://user-images.githubusercontent.com/118154539/218633965-37a011d9-8e08-467c-ad04-7970df8cc088.png)
@@ -79,17 +79,18 @@ Pada plot Analysis of Hotel Type on Hotel Bookings Cancellation didapat bahwa  :
 
 Di dapat bahwa tingkat Booking pada resort hotel lebih tinngi di banding city hotel dengan stay duration yang cukup tinggi
 Tingkat canceled terjadi di atas 3 stay duration pada resort hotel dan pada city hotel rata –rata pengunjung melakukan cancel di durasi stay duration 2 ke atas 
-![image](https://user-images.githubusercontent.com/118154539/218633994-15bf8ac6-af0b-41c7-9072-69f4799f4d4c.png)
 
 # Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
 1. Impact Analysis of Lead Time on Hotel Bookings Cancellation 
 ![Stage 3](https://user-images.githubusercontent.com/118154539/218634110-f8c3ebf6-d6d9-416a-b9bc-295982412d13.png)
+
 Pada Data Impact Analysis of Lead Time on Hotel Bookings Cancellation dapat di lihat bahwa :
    1) Tingkan cancel terjad pada lead time di atas 70
    2)Lama booking hotel pada resort hotel dan city hotel yang not canceled hampir sama dimana lead time paling lama ada di bawah 70 lead time
 
 2.  Analysis of Lead Time on Hotel Bookings Cancellation by Hotel Type
 ![Stage 3 1](https://user-images.githubusercontent.com/118154539/218634420-ef2b9df3-0152-4ed2-a78d-c4942413a547.png)
+
 Pada Data Impact Analysis of Lead Time on Hotel Bookings Cancellation by Hotel Type dapat di lihat bahwa :
    1) Tingkan cancel terjadi pada interval di atas 70 untuk Resort hotel
    2) Tingkan cancel terjadi pada interval di atas 80 untuk Resort hotel
@@ -97,6 +98,7 @@ Pada Data Impact Analysis of Lead Time on Hotel Bookings Cancellation by Hotel T
 
 3. Analysis of Stay Duration on Hotel Bookings Cancellation by Month
 ![Stge 3 2](https://user-images.githubusercontent.com/118154539/218634290-d01711ce-2883-4d52-850f-56bd06e33e3f.png)
+
    1) Canceled dangan lead time paling lama terjadi pada bulan November, hal tersebut bisa terjadi karena banya pengunjung yang merencanakan untuk melakukan booking pada bulan December dimana terdapat libur panjang yaitu libur natal dan tahun baru
    2)canceled dengan lead time paling singkat terjadi pada bulan April
 
