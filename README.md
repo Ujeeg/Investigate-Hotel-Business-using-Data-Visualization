@@ -47,9 +47,9 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
 1. Mothly Hotel Booking Analysis Based on Hotel Type and Month
 ![stage 2 1](https://user-images.githubusercontent.com/118154539/218632920-16eb60fd-ab28-4d3b-8db0-d85477f925e9.png)
 Pada plot Montly Hotel Booking Analysis Based on Hotel Type didapat bahwa :
-   1) Dari data di atas dapat di lihat bahwa nilai booking City hotel lebih tinnggi di bandung resort hotel
-   2) Untuk data per month pada city hotel bisa di lihat bahwa pada bulan july dan Agustus
-   3) Untuk data per month pada Resort Hotel bisa di lihat bahwa pada bulan july dan December
+   - Dari data di atas dapat di lihat bahwa nilai booking City hotel lebih tinnggi di bandung resort hotel
+   - Untuk data per month pada city hotel bisa di lihat bahwa pada bulan july dan Agustus
+   - Untuk data per month pada Resort Hotel bisa di lihat bahwa pada bulan july dan December
 
 2. Yearly Hotel Booking Analysis Based on Hotel Type
 ![stage 2 2](https://user-images.githubusercontent.com/118154539/218633167-7959cd59-3e3a-4881-b4a2-e9c7a8f93845.png)
@@ -59,18 +59,18 @@ Dari data dapat di lihat bahwa tiap tahunnya terjadi kenaikan, kenaikan yang cuk
 1. Analysis of Stay Duration on Hotel Bookings Cancellation
 ![Plot cannceled](https://user-images.githubusercontent.com/118154539/218633318-d9abd04a-6a67-485d-b37d-b510295f36bb.png)
 Pada plot Analysis of Stay Duration on Hotel Bookings Cancellation didapat bahwa :
-   1) Dari data di atas dapat dilihat bahwa tingkat canceled tidak lebih tinggi dibanding not canceled
-   2) Tingkat canceled paling tinggi terjadi pada durasi 2-3 stay duration
+   - Dari data di atas dapat dilihat bahwa tingkat canceled tidak lebih tinggi dibanding not canceled
+   - Tingkat canceled paling tinggi terjadi pada durasi 2-3 stay duration
 
 2. Impact Analysis of Month on Hotel Bookings Cancellation
 ![Plot cannceled](https://user-images.githubusercontent.com/118154539/218633450-59d8cddf-adf4-4afc-81d7-71ad7f0fe7d7.png)
 
 Pada plot Analysis of Stay duration on Booking Cancellation didapat bahwa  :
-Tingkat canceled tidak lebih besar dari not canceled
-Pada stay duration 1 dan 3 terdapat tingkat canceled dan not canceled paling tinggi
+- Tingkat canceled tidak lebih besar dari not canceled
+-Pada stay duration 1 dan 3 terdapat tingkat canceled dan not canceled paling tinggi
 Untuk tingkat canceled pada stay duration 1 jauh lebih rendah dibanding dengan stay duration 2 dan 3, hal tersebut bisa saja terjadi karena pengunjung merasa kecewa dengan hotel/ tidak sesuai ekspektasi, dan menyebabkan pengunjung memilih untuk pindah ke hotel lain di stay duration 2 dan 3 
-Di dapat bahwa semakin lama stay duration semakin sedikit juga tingkat bookingnya
-Pada stay 1,2 dan 3 merupakan lama stay duration paling di minati pengunjung, mungkin dengan ini hotel bisa membuat promo untuk stay duration 2-3, antau mungkin bisa menggunaka logika untuk meningkatkan stay duration dengan memberikan promo khusus pada pengunjung yang melakukan booking lebih dari 3 stay duration 
+- Di dapat bahwa semakin lama stay duration semakin sedikit juga tingkat bookingnya
+- Pada stay 1,2 dan 3 merupakan lama stay duration paling di minati pengunjung, mungkin dengan ini hotel bisa membuat promo untuk stay duration 2-3, antau mungkin bisa menggunaka logika untuk meningkatkan stay duration dengan memberikan promo khusus pada pengunjung yang melakukan booking lebih dari 3 stay duration 
 ![image](https://user-images.githubusercontent.com/118154539/218633522-06b3a6c1-c181-4201-9c0d-ea4b8344683d.png)
 
 3. Analysis of Hotel Type on Hotel Bookings Cancellation
