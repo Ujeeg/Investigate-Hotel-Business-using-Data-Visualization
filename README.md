@@ -17,10 +17,12 @@ Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya
        ![fill null](https://user-images.githubusercontent.com/118154539/217796979-8708923d-75eb-45a6-aecf-9b55463917e7.png)
 
 3. Membuat Box Pot untuk menghilangkan Ouliers
-      ![outliers barplot](https://user-images.githubusercontent.com/118154539/218632591-28d4ea9b-7896-489e-bc89-a029c31b4594.png)
+   ![outliers barplot](https://user-images.githubusercontent.com/118154539/218632591-28d4ea9b-7896-489e-bc89-a029c31b4594.png)
+
 
 4. Membersihkan Outliers dengan Zscore
-      ![Cleaning ouliers](https://user-images.githubusercontent.com/118154539/218632686-de990adf-a660-419f-a6af-16bdbc5c1a30.png)
+   ![Cleaning ouliers](https://user-images.githubusercontent.com/118154539/218632686-de990adf-a660-419f-a6af-16bdbc5c1a30.png)
+
 
 5. Merubah data yang keliru pada Kolom Meal (mengganti ‘Undefined menjadi No Meal’)
      - pengecekan Meal value
