@@ -85,22 +85,22 @@ Tingkat canceled terjadi di atas 3 stay duration pada resort hotel dan pada city
 ![Stage 3](https://user-images.githubusercontent.com/118154539/218634110-f8c3ebf6-d6d9-416a-b9bc-295982412d13.png)
 
 Pada Data Impact Analysis of Lead Time on Hotel Bookings Cancellation dapat di lihat bahwa :
-   1) Tingkan cancel terjad pada lead time di atas 70
-   2)Lama booking hotel pada resort hotel dan city hotel yang not canceled hampir sama dimana lead time paling lama ada di bawah 70 lead time
+   - Tingkan cancel terjad pada lead time di atas 70
+   - Lama booking hotel pada resort hotel dan city hotel yang not canceled hampir sama dimana lead time paling lama ada di bawah 70 lead time
 
 2.  Analysis of Lead Time on Hotel Bookings Cancellation by Hotel Type
 ![Stage 3 1](https://user-images.githubusercontent.com/118154539/218634420-ef2b9df3-0152-4ed2-a78d-c4942413a547.png)
 
 Pada Data Impact Analysis of Lead Time on Hotel Bookings Cancellation by Hotel Type dapat di lihat bahwa :
-   1) Tingkan cancel terjadi pada interval di atas 70 untuk Resort hotel
-   2) Tingkan cancel terjadi pada interval di atas 80 untuk Resort hotel
-   3)lama booking hotel pada resort hotel dan city hotel yang not canceled hampir sama dimana lead time paling lama ada di bawah 80 lead time
+  - Tingkan cancel terjadi pada interval di atas 70 untuk Resort hotel
+  - Tingkan cancel terjadi pada interval di atas 80 untuk Resort hotel
+  - lama booking hotel pada resort hotel dan city hotel yang not canceled hampir sama dimana lead time paling lama ada di bawah 80 lead time
 
 3. Analysis of Stay Duration on Hotel Bookings Cancellation by Month
 ![Stge 3 2](https://user-images.githubusercontent.com/118154539/218634290-d01711ce-2883-4d52-850f-56bd06e33e3f.png)
 
-   1) Canceled dangan lead time paling lama terjadi pada bulan November, hal tersebut bisa terjadi karena banya pengunjung yang merencanakan untuk melakukan booking pada bulan December dimana terdapat libur panjang yaitu libur natal dan tahun baru
-   2)canceled dengan lead time paling singkat terjadi pada bulan April
+- Canceled dangan lead time paling lama terjadi pada bulan November, hal tersebut bisa terjadi karena banya pengunjung yang merencanakan untuk melakukan booking pada bulan December dimana terdapat libur panjang yaitu libur natal dan tahun baru
+- Canceled dengan lead time paling singkat terjadi pada bulan April
 
 Code Source
 https://github.com/Ujeeg/Investigate-Hotel-Business-using-Data-Visualization/blob/main/Project%202%20Stage%201.ipynb
